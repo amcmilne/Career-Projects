@@ -11,7 +11,5 @@ The "Add to Bag" Flyout is a user interface component that provides the followin
 
 This flyout enhances the user experience by allowing them to easily interact with the shopping bag and related products.
 
-[Express: Add To Bag Flyout][def]
-
-[def]: AddToBagFlyout.mov
+[Express: Add To Bag Flyout](https://player.vimeo.com/video/857578763?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
 
