@@ -26,7 +26,7 @@ The **Refer and Earn** feature allows a customer to effortlessly refer friends a
 
 This feature enhances user engagement by facilitating effortless referrals and mutually rewarding customer interactions.
 
-[Express: Refer & Earn SMS](RAFSMS.MOV)
+[Express: Refer & Earn SMS](https://player.vimeo.com/video/857612190?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
 
 [Express: Refer & Earn Email](RAFEMAIL.MOV)
 
