@@ -28,5 +28,5 @@ This feature enhances user engagement by facilitating effortless referrals and m
 
 [Express: Refer & Earn SMS](https://player.vimeo.com/video/857612190?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
 
-[Express: Refer & Earn Email](RAFEMAIL.MOV)
+[Express: Refer & Earn Email](RAFemail.gif)
 
